@@ -1,5 +1,3 @@
-Update README.md dengan konten berikut:
-
 #  Akhdan Isham | Web Developer Portfolio
 
 A modern and responsive portfolio website built using React, TailwindCSS, and Framer Motion.
