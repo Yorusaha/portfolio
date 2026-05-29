@@ -1,57 +1,38 @@
-## 🚀 Personal Portfolio
+Update README.md dengan konten berikut:
 
-A modern and responsive portfolio website built using **React**, **TailwindCSS**, and **Framer Motion**.
----
+#  Akhdan Isham | Web Developer Portfolio
 
-## 🌟 Website Sections
+A modern and responsive portfolio website built using React, TailwindCSS, and Framer Motion.
 
-- **Home**: Developer introduction with avatar and short description  
-- **About**: Experience, tech stack, personal insights, and skill cards  
-- **Projects**: Showcase of projects with images, descriptions, and skills  
-- **Services**: Highlighting services offered with interactive cards  
-- **Contact**: Contact form and social links with interactive hover effects  
+##  Website Sections
 
----
+- **Home**: Introduction with photo and short description
+- **About**: Background, tech stack, and personal insights
+- **Skills**: Tech skills showcase
+- **Projects**: Client projects and personal projects
+- **Contact**: Contact form and social links
 
-## ⚡ Features
+##  Features
 
 - Clean & modern UI design
 - Smooth animations and transitions
 - Fully responsive (Desktop / Tablet / Mobile)
 - Interactive sections & hover effects
-- Clean and organized code structure
-- Fast performance & lightweight 
+- Fast performance & lightweight
 
----
+##  Technologies Used
 
-## 🛠 Technologies Used
+- React.js
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS
+- Framer Motion
 
-- **React.js** – Building reusable UI components  
-- **Vite** – Fast development environment and build tool  
-- **JavaScript (ES6+)** – Application logic and functionality  
-- **Tailwind** – Styling and responsive layout  
-- **Font Awesome / Boxicons** – Icons – Scroll animations  
+##  Contact
 
----
+- Email: akhdanisham@gmail.com
+- Location: Bandung, Indonesia
+- GitHub: https://github.com/Yorusaha
+- Instagram: https://instagram.com/yorudanzz
 
-
-## 🚀 How to Use / Customize
-
- **Clone the repository:**
-```bash
-git clone https://github.com/Saboo24/portofolio13.git
-```
- ---
-
-## 📬 Contact
-
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
-
----
-
-Made with ❤️ by **Amine Hamzaoui**
-
+Made with ❤️ by Akhdan Isham
