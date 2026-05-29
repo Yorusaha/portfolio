@@ -1,0 +1,260 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - heading "AKHDAN" [level=1] [ref=e6] [cursor=pointer]
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - button "About" [ref=e9] [cursor=pointer]
+        - listitem [ref=e10]:
+          - button "Skills" [ref=e11] [cursor=pointer]
+        - listitem [ref=e12]:
+          - button "Projects" [ref=e13] [cursor=pointer]
+        - listitem [ref=e14]:
+          - button "Contact" [ref=e15] [cursor=pointer]
+      - link "Resume" [ref=e16] [cursor=pointer]:
+        - /url: ""
+        - generic [ref=e19]:
+          - text: Resume
+          - img [ref=e20]
+  - generic [ref=e24]:
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - heading "Hello, I|" [level=2] [ref=e27]:
+          - text: Hello,
+          - generic [ref=e28]: I|
+        - heading "Web Developer" [level=2] [ref=e29]
+        - heading "Based In Bandung" [level=2] [ref=e30]
+      - paragraph [ref=e31]: I'm a Game Development student with a strong passion for Web Development. I build modern websites for real clients and enjoy creating clean, high-performance web experiences.
+      - generic [ref=e32]:
+        - link [ref=e33] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e34]
+        - link [ref=e36] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e37]
+        - link [ref=e39] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e40]
+        - link [ref=e43] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e44]
+    - img "Hero" [ref=e47]
+  - generic [ref=e48]:
+    - generic [ref=e49]:
+      - heading "My Skills" [level=2] [ref=e50]
+      - generic [ref=e51]:
+        - generic [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+          - paragraph [ref=e55]: JavaScript
+        - generic [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+          - paragraph [ref=e59]: React
+        - generic [ref=e60] [cursor=pointer]:
+          - img [ref=e61]
+          - paragraph [ref=e63]: Node.js
+        - generic [ref=e64] [cursor=pointer]:
+          - img [ref=e65]
+          - paragraph [ref=e67]: Next.js
+        - generic [ref=e68] [cursor=pointer]:
+          - img [ref=e69]
+          - paragraph [ref=e71]: Laravel
+        - generic [ref=e72] [cursor=pointer]:
+          - img [ref=e73]
+          - paragraph [ref=e75]: Tailwind
+        - generic [ref=e76] [cursor=pointer]:
+          - img [ref=e77]
+          - paragraph [ref=e79]: HTML
+        - generic [ref=e80] [cursor=pointer]:
+          - img [ref=e81]
+          - paragraph [ref=e83]: CSS
+        - generic [ref=e84] [cursor=pointer]:
+          - img [ref=e85]
+          - paragraph [ref=e90]: Figma
+        - generic [ref=e91] [cursor=pointer]:
+          - img [ref=e92]
+          - paragraph [ref=e94]: Framer Motion
+        - generic [ref=e95] [cursor=pointer]:
+          - img [ref=e96]
+          - paragraph [ref=e98]: Godot
+    - generic [ref=e99]:
+      - heading "My Education" [level=2] [ref=e100]
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - heading "Game Development Student at SMK Telkom Bandung" [level=2] [ref=e103]
+          - paragraph [ref=e104]: Vocational High School majoring in Game Development, Bandung
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - heading "8+" [level=2] [ref=e107]
+            - paragraph [ref=e108]: Client Projects
+          - generic [ref=e109]:
+            - heading "1+" [level=2] [ref=e110]
+            - paragraph [ref=e111]: Years Experience
+          - generic [ref=e112]:
+            - heading "Web" [level=2] [ref=e113]
+            - paragraph [ref=e114]: Web Developer
+  - generic [ref=e115]:
+    - img "About Me" [ref=e117]
+    - generic [ref=e118]:
+      - heading "About Me" [level=2] [ref=e119]
+      - paragraph [ref=e121]: I'm a Game Development student with a strong passion for Web Development. I enjoy building modern, responsive websites and web applications. I have real client experience building websites for automotive industry businesses, and personal projects including a full-stack e-commerce app and an AI-powered web tool.
+      - generic [ref=e122]:
+        - generic [ref=e123]: Web Developer
+        - generic [ref=e124]: Laravel
+        - generic [ref=e125]: Next.js
+  - generic [ref=e126]:
+    - heading "Client Projects" [level=2] [ref=e127]
+    - paragraph [ref=e128]: Real websites built for automotive industry clients
+    - generic [ref=e129]:
+      - generic [ref=e130]:
+        - generic [ref=e131]: Basic
+        - img "officialmazdajakarta.com" [ref=e133]
+        - generic [ref=e134]:
+          - paragraph [ref=e135]: officialmazdajakarta.com
+          - paragraph [ref=e136]: Mazda Jakarta dealer website with complete model listings, pricing information, and WhatsApp integration.
+          - link "View Project" [ref=e137] [cursor=pointer]:
+            - /url: https://officialmazdajakarta.com
+            - text: View Project
+            - img [ref=e138]
+      - generic [ref=e142]:
+        - generic [ref=e143]: Pro
+        - img "hargamazda.com" [ref=e145]
+        - generic [ref=e146]:
+          - paragraph [ref=e147]: hargamazda.com
+          - paragraph [ref=e148]: Pro tier Mazda dealer website with full technical SEO implementation, schema markup, sitemap, robots.txt, complete vehicle catalog, and lead generation features.
+          - link "View Project" [ref=e149] [cursor=pointer]:
+            - /url: https://hargamazda.com
+            - text: View Project
+            - img [ref=e150]
+      - generic [ref=e154]:
+        - generic [ref=e155]: Pro
+        - img "officialmazdabintaro.com" [ref=e157]
+        - generic [ref=e158]:
+          - paragraph [ref=e159]: officialmazdabintaro.com
+          - paragraph [ref=e160]: Official Mazda Bintaro pro tier website with full technical SEO implementation, schema markup, 25+ car models, price lists, and SEO score 95/100.
+          - link "View Project" [ref=e161] [cursor=pointer]:
+            - /url: https://officialmazdabintaro.com
+            - text: View Project
+            - img [ref=e162]
+      - generic [ref=e166]:
+        - generic [ref=e167]: Basic
+        - img "mazdabogorcenter.com" [ref=e169]
+        - generic [ref=e170]:
+          - paragraph [ref=e171]: mazdabogorcenter.com
+          - paragraph [ref=e172]: Mazda Bogor Center dealer website with vehicle listings and WhatsApp integration.
+          - link "View Project" [ref=e173] [cursor=pointer]:
+            - /url: https://mazdabogorcenter.com
+            - text: View Project
+            - img [ref=e174]
+      - generic [ref=e178]:
+        - generic [ref=e179]: Pro
+        - img "dealermazda-jakarta.com" [ref=e181]
+        - generic [ref=e182]:
+          - paragraph [ref=e183]: dealermazda-jakarta.com
+          - paragraph [ref=e184]: Pro tier Jakarta Mazda dealer website with complete technical SEO, schema markup, sitemap, robots.txt, full vehicle catalog, and lead generation features.
+          - link "View Project" [ref=e185] [cursor=pointer]:
+            - /url: https://dealermazda-jakarta.com
+            - text: View Project
+            - img [ref=e186]
+      - generic [ref=e190]:
+        - generic [ref=e191]: Basic
+        - img "mazdabogorofficial.com" [ref=e193]
+        - generic [ref=e194]:
+          - paragraph [ref=e195]: mazdabogorofficial.com
+          - paragraph [ref=e196]: Mazda Bogor Official dealer website with vehicle showcase and WhatsApp integration.
+          - link "View Project" [ref=e197] [cursor=pointer]:
+            - /url: https://mazdabogorofficial.com
+            - text: View Project
+            - img [ref=e198]
+      - generic [ref=e202]:
+        - generic [ref=e203]: Basic
+        - img "officialmazdabogor.com" [ref=e205]
+        - generic [ref=e206]:
+          - paragraph [ref=e207]: officialmazdabogor.com
+          - paragraph [ref=e208]: Official Mazda Bogor dealer website with complete showroom information and contact integration.
+          - link "View Project" [ref=e209] [cursor=pointer]:
+            - /url: https://officialmazdabogor.com
+            - text: View Project
+            - img [ref=e210]
+      - generic [ref=e214]:
+        - generic [ref=e215]: Basic
+        - img "mazdajkt.com" [ref=e217]
+        - generic [ref=e218]:
+          - paragraph [ref=e219]: mazdajkt.com
+          - paragraph [ref=e220]: Mazda Jakarta dealer website with vehicle listings and promotional content.
+          - link "View Project" [ref=e221] [cursor=pointer]:
+            - /url: https://mazdajkt.com
+            - text: View Project
+            - img [ref=e222]
+    - heading "Personal Projects" [level=2] [ref=e226]
+    - paragraph [ref=e227]: Side projects built for learning and experimentation
+    - generic [ref=e228]:
+      - generic [ref=e229]:
+        - img "Aim Creativity Studio" [ref=e231]
+        - generic [ref=e232]:
+          - heading "01" [level=2] [ref=e233]
+          - paragraph [ref=e234]: Aim Creativity Studio
+          - paragraph [ref=e235]: Creative studio portfolio website showcasing web development services and projects built with modern tech stack.
+          - link "View Project" [ref=e236] [cursor=pointer]:
+            - /url: https://aimcreativity.netlify.app
+            - text: View Project
+            - img [ref=e237]
+      - generic [ref=e241]:
+        - img "NVRE E-Commerce" [ref=e243]
+        - generic [ref=e244]:
+          - heading "02" [level=2] [ref=e245]
+          - paragraph [ref=e246]: NVRE E-Commerce
+          - paragraph [ref=e247]: Full-stack fashion e-commerce built with Next.js, React, Tailwind, Framer Motion, and Laravel REST API.
+          - link "View Project" [ref=e248] [cursor=pointer]:
+            - /url: https://nvre-ecommerce.vercel.app
+            - text: View Project
+            - img [ref=e249]
+      - generic [ref=e253]:
+        - img "SciFi Game 2D" [ref=e255]
+        - generic [ref=e256]:
+          - heading "03" [level=2] [ref=e257]
+          - paragraph [ref=e258]: SciFi Game 2D
+          - paragraph [ref=e259]: 2D sci-fi platformer shooter built with Godot Engine 4. Features multi-state animation system, parallax background, collectibles, enemies, and complete game loop with health system.
+          - link "View Project" [ref=e260] [cursor=pointer]:
+            - /url: https://github.com/Yorusaha/ScifiGame2D-Updated
+            - text: View Project
+            - img [ref=e261]
+  - generic [ref=e265]:
+    - heading "Contact Me" [level=2] [ref=e266]
+    - generic [ref=e267]:
+      - generic [ref=e269]:
+        - textbox "Your name" [ref=e270]
+        - textbox "Email" [ref=e271]
+        - textbox "Your website (optional)" [ref=e272]
+        - textbox "How can I help?" [ref=e273]
+        - generic [ref=e274]:
+          - button "Get In Touch" [ref=e275] [cursor=pointer]
+          - generic [ref=e276]:
+            - link [ref=e277] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e278]
+            - link [ref=e280] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e281]
+            - link [ref=e283] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e284]
+            - link [ref=e286] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e287]
+      - generic [ref=e289]:
+        - heading "Let's talk" [level=2] [ref=e290]
+        - paragraph [ref=e291]: I love building modern applications and pushing creativity to the next level. Let’s collaborate and create something amazing together.
+        - generic [ref=e292]:
+          - link "youremail@gmail.com" [ref=e293] [cursor=pointer]:
+            - /url: mailto:youremail@gmail.com
+            - img [ref=e295]
+            - text: youremail@gmail.com
+          - link "1234567890" [ref=e297] [cursor=pointer]:
+            - /url: tel:1234567890
+            - img [ref=e299]
+            - text: "1234567890"
+  - generic [ref=e301]:
+    - heading "AMINE" [level=2] [ref=e302] [cursor=pointer]
+    - generic [ref=e303]:
+      - paragraph [ref=e304]: © 2026 Personal Portfolio
+      - paragraph [ref=e305]: Made by -AC

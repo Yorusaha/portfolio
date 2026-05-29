@@ -1,0 +1,254 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - heading "AKHDAN" [level=1] [ref=e6] [cursor=pointer]
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - button "About" [ref=e9] [cursor=pointer]
+        - listitem [ref=e10]:
+          - button "Skills" [ref=e11] [cursor=pointer]
+        - listitem [ref=e12]:
+          - button "Projects" [ref=e13] [cursor=pointer]
+        - listitem [ref=e14]:
+          - button "Contact" [ref=e15] [cursor=pointer]
+      - link "Resume" [ref=e16] [cursor=pointer]:
+        - /url: ""
+        - generic [ref=e19]:
+          - text: Resume
+          - img [ref=e20]
+  - generic [ref=e24]:
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - heading "Hello, I am Akhdan Isham|" [level=2] [ref=e27]:
+          - text: Hello,
+          - generic [ref=e28]: I am Akhdan Isham|
+        - heading "Web Developer" [level=2] [ref=e29]
+        - heading "Based In Bandung" [level=2] [ref=e30]
+      - paragraph [ref=e31]: I'm a Game Development student with a strong passion for Web Development. I build modern websites for real clients and enjoy creating clean, high-performance web experiences.
+      - generic [ref=e32]:
+        - link [ref=e33] [cursor=pointer]:
+          - /url: mailto:akhdanisham@gmail.com
+          - img [ref=e34]
+        - link [ref=e36] [cursor=pointer]:
+          - /url: https://instagram.com/yorudanzz
+          - img [ref=e37]
+        - link [ref=e40] [cursor=pointer]:
+          - /url: https://wa.me/6287784216378
+          - img [ref=e41]
+        - link [ref=e43] [cursor=pointer]:
+          - /url: https://github.com/Yorusaha
+          - img [ref=e44]
+    - img "Hero" [ref=e47]
+  - generic [ref=e48]:
+    - generic [ref=e49]:
+      - heading "My Skills" [level=2] [ref=e50]
+      - generic [ref=e51]:
+        - generic [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+          - paragraph [ref=e55]: JavaScript
+        - generic [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+          - paragraph [ref=e59]: React
+        - generic [ref=e60] [cursor=pointer]:
+          - img [ref=e61]
+          - paragraph [ref=e63]: Next.js
+        - generic [ref=e64] [cursor=pointer]:
+          - img [ref=e65]
+          - paragraph [ref=e67]: Tailwind
+        - generic [ref=e68] [cursor=pointer]:
+          - img [ref=e69]
+          - paragraph [ref=e71]: HTML
+        - generic [ref=e72] [cursor=pointer]:
+          - img [ref=e73]
+          - paragraph [ref=e75]: CSS
+        - generic [ref=e76] [cursor=pointer]:
+          - img [ref=e77]
+          - paragraph [ref=e82]: Figma
+        - generic [ref=e83] [cursor=pointer]:
+          - img [ref=e84]
+          - paragraph [ref=e86]: Framer Motion
+        - generic [ref=e87] [cursor=pointer]:
+          - img [ref=e88]
+          - paragraph [ref=e90]: Godot
+    - generic [ref=e91]:
+      - heading "My Education" [level=2] [ref=e92]
+      - generic [ref=e93]:
+        - generic [ref=e94]:
+          - heading "Game Development Student at SMK Telkom Bandung" [level=2] [ref=e95]
+          - paragraph [ref=e96]: Vocational High School majoring in Game Development, Bandung
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - heading "8+" [level=2] [ref=e99]
+            - paragraph [ref=e100]: Client Projects
+          - generic [ref=e101]:
+            - heading "1+" [level=2] [ref=e102]
+            - paragraph [ref=e103]: Years Experience
+          - generic [ref=e104]:
+            - heading "Web" [level=2] [ref=e105]
+            - paragraph [ref=e106]: Web Developer
+  - generic [ref=e107]:
+    - img "About Me" [ref=e109]
+    - generic [ref=e110]:
+      - heading "About Me" [level=2] [ref=e111]
+      - paragraph [ref=e113]: I'm a Game Development student with a strong passion for Web Development. I enjoy building modern, responsive websites and web applications. I have real client experience building websites for automotive industry businesses, and personal projects including a full-stack e-commerce app and an AI-powered web tool.
+      - generic [ref=e114]:
+        - generic [ref=e115]: Web Developer
+        - generic [ref=e116]: Laravel
+        - generic [ref=e117]: Next.js
+  - generic [ref=e118]:
+    - heading "Client Projects" [level=2] [ref=e119]
+    - paragraph [ref=e120]: Real websites built for automotive industry clients
+    - generic [ref=e121]:
+      - generic [ref=e122]:
+        - generic [ref=e123]: Basic
+        - img "officialmazdajakarta.com" [ref=e125]
+        - generic [ref=e126]:
+          - paragraph [ref=e127]: officialmazdajakarta.com
+          - paragraph [ref=e128]: Mazda Jakarta dealer website with complete model listings, pricing information, and WhatsApp integration.
+          - link "View Project" [ref=e129] [cursor=pointer]:
+            - /url: https://officialmazdajakarta.com
+            - text: View Project
+            - img [ref=e130]
+      - generic [ref=e134]:
+        - generic [ref=e135]: Pro
+        - img "hargamazda.com" [ref=e137]
+        - generic [ref=e138]:
+          - paragraph [ref=e139]: hargamazda.com
+          - paragraph [ref=e140]: Pro tier Mazda dealer website with full technical SEO implementation, schema markup, sitemap, robots.txt, complete vehicle catalog, and lead generation features.
+          - link "View Project" [ref=e141] [cursor=pointer]:
+            - /url: https://hargamazda.com
+            - text: View Project
+            - img [ref=e142]
+      - generic [ref=e146]:
+        - generic [ref=e147]: Pro
+        - img "officialmazdabintaro.com" [ref=e149]
+        - generic [ref=e150]:
+          - paragraph [ref=e151]: officialmazdabintaro.com
+          - paragraph [ref=e152]: Official Mazda Bintaro pro tier website with full technical SEO implementation, schema markup, 25+ car models, price lists, and SEO score 95/100.
+          - link "View Project" [ref=e153] [cursor=pointer]:
+            - /url: https://officialmazdabintaro.com
+            - text: View Project
+            - img [ref=e154]
+      - generic [ref=e158]:
+        - generic [ref=e159]: Basic
+        - img "mazdabogorcenter.com" [ref=e161]
+        - generic [ref=e162]:
+          - paragraph [ref=e163]: mazdabogorcenter.com
+          - paragraph [ref=e164]: Mazda Bogor Center dealer website with vehicle listings and WhatsApp integration.
+          - link "View Project" [ref=e165] [cursor=pointer]:
+            - /url: https://mazdabogorcenter.com
+            - text: View Project
+            - img [ref=e166]
+      - generic [ref=e170]:
+        - generic [ref=e171]: Pro
+        - img "dealermazda-jakarta.com" [ref=e173]
+        - generic [ref=e174]:
+          - paragraph [ref=e175]: dealermazda-jakarta.com
+          - paragraph [ref=e176]: Pro tier Jakarta Mazda dealer website with complete technical SEO, schema markup, sitemap, robots.txt, full vehicle catalog, and lead generation features.
+          - link "View Project" [ref=e177] [cursor=pointer]:
+            - /url: https://dealermazda-jakarta.com
+            - text: View Project
+            - img [ref=e178]
+      - generic [ref=e182]:
+        - generic [ref=e183]: Basic
+        - img "mazdabogorofficial.com" [ref=e185]
+        - generic [ref=e186]:
+          - paragraph [ref=e187]: mazdabogorofficial.com
+          - paragraph [ref=e188]: Mazda Bogor Official dealer website with vehicle showcase and WhatsApp integration.
+          - link "View Project" [ref=e189] [cursor=pointer]:
+            - /url: https://mazdabogorofficial.com
+            - text: View Project
+            - img [ref=e190]
+      - generic [ref=e194]:
+        - generic [ref=e195]: Basic
+        - img "officialmazdabogor.com" [ref=e197]
+        - generic [ref=e198]:
+          - paragraph [ref=e199]: officialmazdabogor.com
+          - paragraph [ref=e200]: Official Mazda Bogor dealer website with complete showroom information and contact integration.
+          - link "View Project" [ref=e201] [cursor=pointer]:
+            - /url: https://officialmazdabogor.com
+            - text: View Project
+            - img [ref=e202]
+      - generic [ref=e206]:
+        - generic [ref=e207]: Basic
+        - img "mazdajkt.com" [ref=e209]
+        - generic [ref=e210]:
+          - paragraph [ref=e211]: mazdajkt.com
+          - paragraph [ref=e212]: Mazda Jakarta dealer website with vehicle listings and promotional content.
+          - link "View Project" [ref=e213] [cursor=pointer]:
+            - /url: https://mazdajkt.com
+            - text: View Project
+            - img [ref=e214]
+    - heading "Personal Projects" [level=2] [ref=e218]
+    - paragraph [ref=e219]: Side projects built for learning and experimentation
+    - generic [ref=e220]:
+      - generic [ref=e221]:
+        - img "Aim Creativity Studio" [ref=e223]
+        - generic [ref=e224]:
+          - heading "01" [level=2] [ref=e225]
+          - paragraph [ref=e226]: Aim Creativity Studio
+          - paragraph [ref=e227]: Creative studio portfolio website showcasing web development services and projects built with modern tech stack.
+          - link "View Project" [ref=e228] [cursor=pointer]:
+            - /url: https://aimcreativity.netlify.app
+            - text: View Project
+            - img [ref=e229]
+      - generic [ref=e233]:
+        - img "NVRE E-Commerce" [ref=e235]
+        - generic [ref=e236]:
+          - heading "02" [level=2] [ref=e237]
+          - paragraph [ref=e238]: NVRE E-Commerce
+          - paragraph [ref=e239]: Full-stack fashion e-commerce built with Next.js, React, Tailwind, Framer Motion, and Laravel REST API.
+          - link "View Project" [ref=e240] [cursor=pointer]:
+            - /url: https://nvre-ecommerce.vercel.app
+            - text: View Project
+            - img [ref=e241]
+      - generic [ref=e245]:
+        - img "SciFi Game 2D" [ref=e247]
+        - generic [ref=e248]:
+          - heading "03" [level=2] [ref=e249]
+          - paragraph [ref=e250]: SciFi Game 2D
+          - paragraph [ref=e251]: 2D sci-fi platformer shooter built with Godot Engine 4. Features multi-state animation system, parallax background, collectibles, enemies, and complete game loop with health system.
+          - link "View Project" [ref=e252] [cursor=pointer]:
+            - /url: https://github.com/Yorusaha/ScifiGame2D-Updated
+            - text: View Project
+            - img [ref=e253]
+  - generic [ref=e257]:
+    - heading "Contact Me" [level=2] [ref=e258]
+    - generic [ref=e259]:
+      - generic [ref=e261]:
+        - textbox "Your name" [ref=e262]
+        - textbox "Email" [ref=e263]
+        - textbox "Your website (optional)" [ref=e264]
+        - textbox "How can I help?" [ref=e265]
+        - generic [ref=e266]:
+          - button "Get In Touch" [ref=e267] [cursor=pointer]
+          - generic [ref=e268]:
+            - link [ref=e269] [cursor=pointer]:
+              - /url: mailto:akhdanisham@gmail.com
+              - img [ref=e270]
+            - link [ref=e272] [cursor=pointer]:
+              - /url: https://instagram.com/yorudanzz
+              - img [ref=e273]
+            - link [ref=e276] [cursor=pointer]:
+              - /url: https://wa.me/6287784216378
+              - img [ref=e277]
+            - link [ref=e279] [cursor=pointer]:
+              - /url: https://github.com/Yorusaha
+              - img [ref=e280]
+      - generic [ref=e282]:
+        - heading "Let's talk" [level=2] [ref=e283]
+        - paragraph [ref=e284]: I love building modern applications and pushing creativity to the next level. Let's collaborate and create something amazing together.
+        - generic [ref=e285]:
+          - link "akhdanisham@gmail.com" [ref=e286] [cursor=pointer]:
+            - /url: mailto:akhdanisham@gmail.com
+            - img [ref=e288]
+            - text: akhdanisham@gmail.com
+          - link "087784216378" [ref=e290] [cursor=pointer]:
+            - /url: tel:087784216378
+            - img [ref=e292]
+            - text: "087784216378"
+  - generic [ref=e294]:
+    - heading "AKHDAN" [level=2] [ref=e295] [cursor=pointer]
+    - generic [ref=e296]:
+      - paragraph [ref=e297]: © 2026 Personal Portfolio
+      - paragraph [ref=e298]: Made by Akhdan Isham
